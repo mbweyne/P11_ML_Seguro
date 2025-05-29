@@ -111,6 +111,6 @@ Uso do VS Code + Git + GitHub
 Contato 😄
 Marcia Bayardino Weyne
 📫 mbweyne@gmail.com
-GitHub
-LinkedIn
+[![GitHub](https://img.shields.io/badge/GitHub-marciabweyne-black?style=for-the-badge&logo=github)](https://github.com/mbweyne/P11_ML_Seguro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marciabweyne-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcia-bayardino-weyne)
 
