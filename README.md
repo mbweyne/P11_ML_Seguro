@@ -112,7 +112,7 @@ Contato 😄
 Marcia Bayardino Weyne
 📫 mbweyne@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-marciabweyne-black?style=for-the-badge&logo=github)](https://github.com/mbweyne/P11_ML_Seguro)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/mbweyne/P11_ML_Seguro)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marciabweyne-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcia-bayardino-weyne)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-bayardino-weyne)
 
